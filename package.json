@@ -1,0 +1,9 @@
+{
+  "name": "patch-bug",
+  "patchedDependencies": {
+    "eventsource@2.0.2": "patches/eventsource@2.0.2.patch"
+  },
+  "dependencies": {
+    "eventsource": "^2.0.2"
+  }
+}
