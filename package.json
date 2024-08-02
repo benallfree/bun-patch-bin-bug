@@ -1,5 +1,6 @@
 {
   "name": "patch-bug",
+  "bin": {},
   "patchedDependencies": {
     "eventsource@2.0.2": "patches/eventsource@2.0.2.patch"
   },
